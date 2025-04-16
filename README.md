@@ -4,6 +4,7 @@
 
 ## Summary
 SmartCrude is a Python-based project that leverages artificial intelligence techniques to predict crude oil prices (Brent or WTI) and optimize buy and sell decisions for an oil company.
+
 The system uses publicly available market data and aims to enhance trading profitability by making smarter, day-to-day decisions.
 
 ## Name of the author: Yousfi Youcef

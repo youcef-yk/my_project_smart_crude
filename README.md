@@ -174,7 +174,7 @@ pandas, prophet, yfinance, and matplotlib.pyplot.
 -   **Risk of overfitting**, to be mitigated through
     **cross-validation** and **regularization**
 
-**6. What\'s Next?**
+## 6. What\'s Next?
 
 SmartCrude could evolve toward:
 

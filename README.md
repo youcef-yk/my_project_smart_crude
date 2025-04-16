@@ -1,9 +1,10 @@
 
 
 # SmartCrude -- AI Optimization for Crude Oil Trading
-===================================================
-Yousfi Youcef
-=============
+
+
+## Name of the author: Yousfi Youcef
+
 
 ## Preface
 

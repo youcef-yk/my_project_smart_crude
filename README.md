@@ -4,7 +4,7 @@ Yousfi Youcef
 SmartCrude -- AI Optimization for Crude Oil Trading
 ===================================================
 
-**Preface**
+## Preface
 
 The starting point of this project is to optimize trading
 (buying/selling) within the oil industry.
@@ -47,8 +47,7 @@ To reduce project complexity, a choice had to be made between trading in
 
 -   It is **compatible with real-time or daily strategies**
 
-**1.Basic Idea in a Few Words**
--------------------------------
+## 1.Basic Idea in a Few Words
 
 **Project title:**\
 SmartCrude -- AI Optimization for Crude Oil Trading
@@ -60,7 +59,7 @@ and **optimize buy and sell decisions** for an oil company.\
 The system uses **publicly available market data** and aims to **enhance
 trading profitability** by making **smarter, day-to-day decisions**.
 
-**2. Context**
+## 2. Context
 
 The crude oil market is **one of the most active and volatile in the
 world**.\
@@ -92,7 +91,7 @@ it to **real-world, high-impact sectors** like energy.\
 This project is an opportunity to apply technical skills (Python, ML) to
 a **practical, business-oriented, and strategic problem**.
 
-**3. Data and AI Techniques**
+## 3. Data and AI Techniques
 
 **Required data:**
 
@@ -139,7 +138,7 @@ pandas, scikit-learn, prophet, tensorflow, and yfinance.\
 **Given the simplifications made, I used only**:\
 pandas, prophet, yfinance, and matplotlib.pyplot.
 
-**4. How Is It Used**
+## 4. How Is It Used
 
 **Usage context:**
 
@@ -162,7 +161,7 @@ pandas, prophet, yfinance, and matplotlib.pyplot.
 
 -   **Developers / data engineers** → implementation and monitoring
 
-**5. Challenges**
+## 5. Challenges
 
 -   Modeling of **rare events** (geopolitical crises, market shocks)
 
@@ -195,7 +194,7 @@ SmartCrude could evolve toward:
 -   **Hedging and arbitrage strategies**, such as **crack spread**
     (crude vs gasoline price differential)
 
-**7. Acknowledgments**
+## 7. Acknowledgments
 
 This project is inspired by:
 
@@ -212,7 +211,7 @@ This project is inspired by:
 
     -   EIA, Yahoo Finance, ICE, OPEC, Investing.com
 
-**8. Concrete Demonstration**
+## 8. Concrete Demonstration
 
 To demonstrate the feasibility of the project, I provide details of the
 **technical structure** in Python, such as **file organization**,
